@@ -8,6 +8,14 @@ and detect structural damages, gas and pipeline inspections all by using same eq
 applications.
 
 Hardware Used 
+Flight Controller (DJI Naza M V2)
+Electronic Speed Controller (Simonk 30A)
+Drone Frame (F450)
+BLDC 1400KV Motors
+Jetson Nano
+Waveshare IMX219 Stereo Camera (200 degrees)
+Propellers
+
 
 
 Software Used 
@@ -17,5 +25,10 @@ IDLE (Python 3.10)
 Blender 
 
 Process Flow 
-1. Ideation - 
+1. Ideation 
+2. Collection of hardware components 
+3. Constructing algorithm to detect the cracks
+4. Assemblying the hardwarde components 
+5. 
+6. Running drone simulation on Gazebo  
 
