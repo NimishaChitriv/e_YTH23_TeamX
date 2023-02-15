@@ -16,8 +16,6 @@ Jetson Nano
 Waveshare IMX219 Stereo Camera (200 degrees)
 Propellers
 
-
-
 Software Used 
 Robot Operationg System (ROS)
 Gazebo 
@@ -29,6 +27,5 @@ Process Flow
 2. Collection of hardware components 
 3. Constructing algorithm to detect the cracks
 4. Assemblying the hardwarde components 
-5. 
-6. Running drone simulation on Gazebo  
+5. Running drone simulation on Gazebo  
 
